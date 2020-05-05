@@ -1,0 +1,2 @@
+# Minecraft-RTX-HD-512x512-textures
+"vanilla" 512x512 textures
